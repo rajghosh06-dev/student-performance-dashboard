@@ -35,7 +35,7 @@ An interactive Power BI dashboard that:
 -  Pass vs Fail distribution (pie chart)  
 -  Slicers for Subject, Grade, and Result  
 -  Conditional formatting on Result and Grade columns  
--  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.”*
+>  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.” [Click here to access](datasets/Student-Marks_Result-Analysis_Dataset.xlsx)*
 
 ---
 
@@ -61,7 +61,7 @@ student-performance-dashboard/
 │── Student Marks - Result Analysis Dataset Visualization.pdf
 │── presentation/
 │   └── MS_Elevate_Project-Student_Marks_Result_Analysis-RishitGhosh.pptx
-│── screenshots/
+└── screenshots/
     ├── dashboard_overview.png
     ├── table_view.png
     └── power-bi-dashboard.png
@@ -80,13 +80,14 @@ student-performance-dashboard/
 ## Acknowledgements
 Developed by **RISHIT GHOSH**  
 B.Tech CSE – AI & ML, Geethanjali College of Engineering and Technology  
-For **MS Elevate Internship – Capstone Project**
+For **MS Elevate Internship – Capstone Project**  
+Check out my Portfolio [here](https://rajghosh06-dev.github.io/portfolio/index.html).
 
 ---
-
 ## 🔗 References
 - [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
 - [Microsoft Learn – Data Visualization](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)  
-- [Portfolio Website](https://rajghosh06-dev.github.io/portfolio/index.html)
+
+>**NOTE:** The Dataset used for this Project was not taken from any other source. 
 
 ---
