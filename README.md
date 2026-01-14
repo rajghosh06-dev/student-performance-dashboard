@@ -1,4 +1,4 @@
-# 🎓 Student Performance Dashboard
+# 🎓 Student Performance Dashboard - [POWER-BI]
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes student marks, grades, and results across subjects. Built for the **MS Elevate Internship Capstone**, it provides interactive insights into academic performance using slicers, charts, and conditional formatting.
@@ -20,8 +20,8 @@ An interactive Power BI dashboard that:
 ---
 
 ## 🛠️ Tech Stack
-- **Power BI Desktop**  
-- **Excel** (data source)  
+- **Power BI Desktop** - [Click here to Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) 
+- **Excel** (data source) - [Click here to Download](https://www.microsoft.com/en-in/microsoft-365/excel) 
 - **DAX** (for calculated measures and formatting)
 
 ---
@@ -88,7 +88,5 @@ For **MS Elevate Internship – Capstone Project**
 - [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
 - [Microsoft Learn – Data Visualization](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)  
 - [Portfolio Website](https://rajghosh06-dev.github.io/portfolio/index.html)
-
-```
 
 ---
