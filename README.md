@@ -1,3 +1,8 @@
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Dataset](https://img.shields.io/badge/Dataset-Excel-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🎓 Student Performance Dashboard - [POWER-BI]
 
 ## 📌 Project Overview
@@ -90,10 +95,10 @@ student-performance-dashboard/
 
 ---
 
-## Acknowledgements
-Developed by **RISHIT GHOSH**  
-B.Tech CSE – AI & ML, Geethanjali College of Engineering and Technology  
-For **MS Elevate Internship – Capstone Project**  
+## Author
+Developed by [**RISHIT GHOSH**](https://github.com/rajghosh06-dev)  
+B.Tech CSE (AI & ML), Geethanjali College of Engineering and Technology  
+**MS Elevate Internship | Capstone Project | December 2025 Batch | Microsoft Power-BI**    
 Check out my Portfolio [here](https://rajghosh06-dev.github.io/portfolio/index.html).
 
 ---
