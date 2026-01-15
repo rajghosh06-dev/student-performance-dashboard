@@ -37,7 +37,7 @@ An interactive Power BI dashboard that:
 -  Pass vs Fail distribution (pie chart)  
 -  Slicers for Subject, Grade, and Result  
 -  Conditional formatting on Result and Grade columns  
->  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.” [Click here to access.](datasets/Student_Marks_Result_Analysis_MS-ELEVATE_DATASET_RISHIT-GHOSH.xlsx)*
+>  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.” [Click here to access.](datasets/Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_DATASET_RISHIT-GHOSH.xlsx)*
 
 ---
 
@@ -54,7 +54,7 @@ An interactive Power BI dashboard that:
 
 ---
 
-> To view the main project file: [Click here](project/Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pbix) 
+> To view the main project file: [Click here](project/Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_RISHIT-GHOSH.pbix) 
 >> NOTE: This file requries an compatible app for opening. Refer **[Tech Stack](#️-tech-stack)** for more information.
 
 ---
@@ -63,14 +63,15 @@ An interactive Power BI dashboard that:
 ```
 student-performance-dashboard/
 │── README.md [ You are here ]
-│── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pbix
+│── project/    
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_RISHIT-GHOSH.pbix
 │── output-PDF-export/
-│   └── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pdf
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_RISHIT-GHOSH.pdf
 │── datasets/
-│   └── Student_Marks_Result_Analysis_MS-ELEVATE_DATASET_RISHIT-GHOSH.xlsx
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_DATASET_RISHIT-GHOSH.xlsx
 │── presentation/
-│   ├── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pptx
-│   └── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pdf
+│   ├── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_PRESENTAION_RISHIT-GHOSH.pptx
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_PRESENTATION_RISHIT-GHOSH.pdf
 │── screenshots/
 │   ├── dashboard_overview.png
 │   ├── table_view.png
