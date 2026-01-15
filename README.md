@@ -20,8 +20,10 @@ An interactive Power BI dashboard that:
 ---
 
 ## 🛠️ Tech Stack
-- **Power BI Desktop** - [Click here to Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) 
-- **Excel** (data source) - [Click here to Download](https://www.microsoft.com/en-in/microsoft-365/excel) 
+- **Power BI Desktop** - [Click here to Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)  
+[*required to view the project files (in _.pbix_ format)] 
+- **Excel** (data source) - [Click here to Download](https://www.microsoft.com/en-in/microsoft-365/excel)  
+[*required to view the dataset files (in _.xlsx_ format)]
 - **DAX** (for calculated measures and formatting)
 
 ---
@@ -49,6 +51,11 @@ An interactive Power BI dashboard that:
 
 ### 🔹 Power BI Canvas
 ![Power BI Canvas](screenshots/power-bi-dashboard.png)
+
+---
+
+> To view the main project file: [Click here](project/Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pbix) 
+>> NOTE: This file requries an compatible app for opening. Refer **[Tech Stack](#️-tech-stack)** for more information.
 
 ---
 
