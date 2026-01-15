@@ -35,7 +35,7 @@ An interactive Power BI dashboard that:
 -  Pass vs Fail distribution (pie chart)  
 -  Slicers for Subject, Grade, and Result  
 -  Conditional formatting on Result and Grade columns  
->  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.” [Click here to access](datasets/Student-Marks_Result-Analysis_Dataset.xlsx)*
+>  Table view with scroll note: *“Showing top 8 of 50 records. Full dataset available in submission file.” [Click here to access.](datasets/Student_Marks_Result_Analysis_MS-ELEVATE_DATASET_RISHIT-GHOSH.xlsx)*
 
 ---
 
@@ -55,16 +55,21 @@ An interactive Power BI dashboard that:
 ## 📂 Repository Structure
 ```
 student-performance-dashboard/
-│── README.md
-│── Student Marks - Result Analysis Dataset.xlsx
-│── Student Marks - Result Analysis Dataset Visualization.pbix
-│── Student Marks - Result Analysis Dataset Visualization.pdf
+│── README.md [ You are here ]
+│── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pbix
+│── output-PDF-export/
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pdf
+│── datasets/
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_DATASET_RISHIT-GHOSH.xlsx
 │── presentation/
-│   └── MS_Elevate_Project-Student_Marks_Result_Analysis-RishitGhosh.pptx
-└── screenshots/
-    ├── dashboard_overview.png
-    ├── table_view.png
-    └── power-bi-dashboard.png
+│   ├── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pptx
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_RISHIT-GHOSH.pdf
+│── screenshots/
+│   ├── dashboard_overview.png
+│   ├── table_view.png
+│   └── power-bi-dashboard.png
+└── LICENSE
+
 ```
 
 ---
