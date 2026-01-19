@@ -70,8 +70,8 @@ student-performance-dashboard/
 │── README.md [ You are here ]
 │── project/    
 │   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_RISHIT-GHOSH.pbix
-│── output-PDF-export/
-│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_RISHIT-GHOSH.pdf
+│── export/
+│   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_PRESENTATION_RISHIT-GHOSH.pdf
 │── datasets/
 │   └── Student_Marks_Result_Analysis_MS-ELEVATE_POWER-BI_PROJECT_DATASET_RISHIT-GHOSH.xlsx
 │── presentation/
